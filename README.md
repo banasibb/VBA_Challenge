@@ -15,4 +15,4 @@ Prior to refractoring the code, the run time for the 2017 analysis was 1.179 sec
 ![Chart 1](https://github.com/banasibb/VBA_Challenge/blob/75de8f66141e0fb4ba3330ad0ce864a1afa1f611/VBA_Challenge_2018_ss.PNG)<br />
 
 ## Summary
-
+The improvements to the refractored code included a 75% improvement in runtime, as both macros executed in approximately one-quarter of the original time. 
