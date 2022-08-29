@@ -18,6 +18,7 @@ The refractored code can be found in the [VBA_Challenge.xlsm](https://github.com
 ![Chart 1](https://github.com/banasibb/VBA_Challenge/blob/75de8f66141e0fb4ba3330ad0ce864a1afa1f611/VBA_Challenge_2018_ss.PNG)<br />
 
 ## Summary
-The improvements to the refractored code included an approximately 85% improvement in runtime, as both macros executed in approximately one-sixth of the original time. Refractoring code can particularly important when working with very large data sets, as they can require a significant amount of time to run.
+The improvements to the refractored code included an approximately 85% improvement in runtime, as both macros executed in approximately one-sixth of the original time. Refractoring code can particularly important when working with very large data sets, as they can require a significant amount of time to run.<br /> <br />
+As part of creating the deliverable for this challenge, I mistakenly uploaded screenshots of the runtimes from the greenstocks.xlsm file. When I tried to replace the files with the new screenshots, I found that GitHub would not upate the screenshots in this readme file unless I changed the original files names. Without changing the file names, the images were still showing the original runtimes even after the changes were committed. As this could potentially happen in the future, I will need to find a solution to replace an image file using the same file name on github docs.
 
 
