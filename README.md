@@ -9,6 +9,7 @@ To make the file easier to interact with for the end user, buttons were created 
 
 ## Results
 The screenshots of the refractoring exercise are below. 
+Prior to refractoring the code, the run time for the 2017 analysis was 1.179 seconds, and the run time for the 2018 code was 1.121 seconds.
  <br />
 ![Chart 1](https://github.com/banasibb/VBA_Challenge/blob/85211dd4b744370234562d3701954d8030209146/VBA_Challenge_2017.PNG)
 ![Chart 1](https://github.com/banasibb/VBA_Challenge/blob/85211dd4b744370234562d3701954d8030209146/VBA_Challenge_2018.PNG)<br />
