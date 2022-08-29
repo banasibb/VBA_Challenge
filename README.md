@@ -9,7 +9,9 @@ To make the file easier to interact with for the end user, buttons were created 
 
 ## Results
 The screenshots of the refractoring exercise are below. 
-Prior to refractoring the code, the run time for the 2017 analysis was 1.179 seconds, and the run time for the 2018 code was 1.121 seconds.
+Prior to refractoring the code, the run time for the 2017 analysis was 1.179 seconds, and the run time for the 2018 code was 1.121 seconds. These results can be found in the original greenstocks analysis file. 
+
+The refractored code can be found in the [VBA_Challenge.xlsm](https://github.com/banasibb/VBA_Challenge/blob/ef0a4486eb6bdf96a4eadfe63b899f4c3d182fd8/VBA_Challenge.xlsm) file.
  <br />
 ![Chart 1](https://github.com/banasibb/VBA_Challenge/blob/f499aaeda4aa48ac03775ecadc7e7c3196c8f105/VBA_Challenge_2017_ss.PNG)
 ![Chart 1](https://github.com/banasibb/VBA_Challenge/blob/75de8f66141e0fb4ba3330ad0ce864a1afa1f611/VBA_Challenge_2018_ss.PNG)<br />
