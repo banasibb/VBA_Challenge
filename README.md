@@ -1,4 +1,4 @@
-# VBA_Challenge
+# Stocks Analysis VBA Challenge
 
 ## Overview of the Project
 ### Purpose
